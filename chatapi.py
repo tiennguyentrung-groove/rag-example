@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1") #ollama
+#client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1") #ollama
 client = OpenAI() #OpenAI
 
 app = FastAPI()

@@ -1,0 +1,9 @@
+At Punting Form, we capture the sectional time performance of every runner in every race for all TAB meetings in Australia, Singapore, Hong Kong and now North America.
+
+As a minimum we capture the start to finish time for every runner and their time from the barriers to the last 600m marker and their time from the last 600m, last 400m, last 200m and last 100m to the finish. Where markers and vision permits we will also capture the last 1200m, 1000m and 800m to finish sectional times also.
+
+We have captured raw sectional times for 92%+ of all races since 2012.
+
+We also capture all individual runners’ positions from the inside running rail at all sectional markers to determine a runners wide position in running. These wides have been captured since 2014.
+
+All of this sectional data is how we create our exclusive benchmarks. We take the raw sectional times, wides, early race speed, track par-times and apply some secret sauce to generate a series of comparable benchmarks for every runner’s historical performance. And those benchmarks are displayed in lengths.

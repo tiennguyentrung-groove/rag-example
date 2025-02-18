@@ -1,0 +1,7 @@
+Punting Form might have created the most advanced speed map in global horse racing.
+
+They dynamically update and show if a horse is advantaged or disadvantaged, based on the historical run style and barrier of each runner.
+
+Hard to read in the image below but highly functional and user-friendly on the website. The colour shades immediately tell you who is favoured (based on their historical runstyle, the barrier, rail position and the venue).
+
+All that condensed into a colour and number in a second.

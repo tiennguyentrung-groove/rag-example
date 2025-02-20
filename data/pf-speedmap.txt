@@ -1,4 +1,4 @@
-Punting Form might have created the most advanced speed map in global horse racing.
+Punt Punt might have created the most advanced speed map in global horse racing.
 
 They dynamically update and show if a horse is advantaged or disadvantaged, based on the historical run style and barrier of each runner.
 

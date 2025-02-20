@@ -1,46 +1,42 @@
-Getting Started with Punting Form
-This documentation site provides tutorials and advice on how to get the most out of Punting Form.
-
-Suggest Edits
-Welcome to Punting Form!
+Welcome to Punt Punt!
 
 Whether you’re after a smarter form guide, the best available sectional data, or if you’re building a model, we have the data that elevates your punting.
 
-This site also provides a hub for developers looking to automate Punting Form data to create their own smart solutions.
+This site also provides a hub for developers looking to automate Punt Punt data to create their own smart solutions.
 
 
 Our Products
 Whether you’re after a smarter form guide, the best available sectional data or if you’re building a model, we have the data that elevates your punting.
 
-Free
-Discover Punting Form Speed Maps & Form Guides.
+1. Free
+Discover Punt Punt Speed Maps & Form Guides.
 Access free Ratings for Saturday metro.
 
 
-Starter
+2. Starter
 Access the benchmark in racing data with fully interactive Form Guides, Speed Maps and Ratings.
 Use our simple API to access CSV/JSON form and results data.
 
 
-Professional
+3. Professional
 Give yourself an edge with 200m sectional benchmark data that the pros use to identify the right horses at their peak.
 Plus exclusive race speed assessments, ratings and meeting stats.
 
 
-Modeller
+4. Modeller
 Find unique edges and bet at scale with access to our modeller ready historical point-in-time database and custom API.
 Used by dozens of full-time professionals, bookmakers and betting syndicates.
 
 
-Free
-Discover Punting Form
+1.Free
+Discover Punt Punt
 
 
 Form Guide (non-interactive)
 Speed Maps (non-interactive)
 Meeting Quick Guide Ratings (Sat metro)
 
-Starter
+2.Starter
 Access exclusive data to bet smarter
 
 $59.00/Month
@@ -56,7 +52,7 @@ Worksheets and Personal Ratings
 Historical Run Style Analysis
 Jockey & Trainer Performance Analysis
 
-Professional
+3. Professional
 Beat the bookies with benchmark sectional data
 
 $297.00/Month
@@ -70,15 +66,13 @@ Benchmark data for 200m increments
 Fastest at meeting rankings & stats
 Race speed assessments & ratings
 
-Modeller
+4. Modeller
 Beat the Exchange with API integrations
-
-sales@puntingform.com.au
 
 Everything in PRO, plus:
 
 API Access to Sectional data
-Punting Form Analytics
+Punt Punt Analytics
 Option to purchase historical sectional data
 Option to purchase modelling-ready point-in-time data
 Personal use only

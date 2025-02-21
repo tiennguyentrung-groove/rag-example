@@ -9,7 +9,7 @@ def get_chat_response(user_input):
         return response.json().get("response", "Error: No response from server")
     return "Error: Unable to fetch response"
 
-st.title("PuntingForm Chatbot")
+st.title("PuntPunt Chatbot")
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = []
